@@ -1,0 +1,8 @@
+{
+  "name": "Smart Business Card",
+  "description": "Tap or scan to share a live digital business card that you can update anytime.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
